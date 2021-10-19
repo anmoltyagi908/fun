@@ -1,0 +1,130 @@
+{
+    "main": {
+      "name": "B.Pharm - 6th Sem",
+      "header":"bpharm",
+      "headerImage":"https://institute.careerguide.com/wp-content/uploads/2020/04/Pharmaceutical.jpg",
+      "description": ".Meerut Institute of Technology.",
+      "image": "profilepic.png",
+      "bio": "You can Download the Timetable",
+      "contactmessage": "Get in touch with us",
+      "email": "mayank.tyagi.cs.2019@mitmeerut.ac.in, anmol.tyagi.cs.2019@mitmeerut.ac.in",
+      "phone": " 9548083214",
+      "phone1": " 6396534539",
+      "address": {
+        "street": "B-26/1, Nand vihar,Rohta Road,",
+        "city":"Meerut",
+        "state": "Uttar Pradesh",
+        "zip": "250001",
+        "street1": "Vidhyawati Boy's Hostel,",
+        "city1":"Meerut",
+        "state1": "Uttar Pradesh",
+        "zip1": "250103"
+      },
+      "website": "https://mitmeerut.ac.in",
+      "secA": "https://drive.google.com/file/d/1jeNuz54eWEYI1ht1S0q98p2NwtSTR7fo/view?usp=sharing",
+      "secB": "https://drive.google.com/file/d/19DJxDF9rGyWLmzVNsRqtYHDuwvXsVW5J/view?usp=sharing",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/mit.merrut/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/company/mitmeerut/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mit_meerut/",
+          "className": "fa fa-instagram"
+        }
+      ]
+    },
+    "resume": {
+      "syllabus": [
+        {
+          "subjects": "👉 Database Management System (DBMS - KCS501)",
+          "link":"https://drive.google.com/file/d/1UOEOxbEkMmdmxsxYbISQ5iPziQfZuI2w/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Machine Learning Techniques (MLT - KCS055)",
+          "link":"https://drive.google.com/file/d/1-OdiIB4K8WA4P58hdgaPUvGTjTQ7A4tC/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Design and Analysis of Algorithm (DAA - KCS503)",
+          "link": "https://drive.google.com/file/d/1Jo2YEL3cjD5LUT0zA3C0ovctxHDURqZs/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Object Oriented System Design (OOSD - KCS054)",
+          "link" : "https://drive.google.com/file/d/1HRwDtm6tLSXArhDLJH-tuY6_CeqwPQIe/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Compiler Design (CD - KCS502)",
+          "link": "https://drive.google.com/file/d/1xneIupKXeRqv5Uu5kajpEGR5DenJK4WE/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Constitution of India (COI - KNC501)",
+          "link" : "https://drive.google.com/file/d/1pDbEGZMhtRrWLVmV8D9jZEaDxqGOaPk9/view?usp=sharing"
+        }
+        
+      ],
+      "skills": [
+        {
+          "subjects": "👉 Database Management System Lab(DBMS - KCS551)",
+          "link":"https://drive.google.com/file/d/1ptWDWFMbza7UxmZIyMutYdgkWBdl7Vxn/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Design and Analysis of Algorithm Lab(DAA - KCS553)",
+          "link": "https://drive.google.com/file/d/1JVxfamEIppx7COiP6036E-CvWT35KgUO/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Compiler Design Lab (CD - KCS552)",
+          "link": "https://drive.google.com/file/d/11Q4kRfH52aBXRelz3o8LUrklQo0-F5iG/view?usp=sharing"
+        }
+        
+       
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Database Management System",
+          "category": "",
+          "image": "dbms.jpg",
+          "url": "https://drive.google.com/file/d/1tYLqZTmzcCoymKv6fRbpAMq7a-plj5L5/view?usp=sharing"
+        },
+        {
+          "title": "Design and Analysis of Algorithms",
+          "category": "",
+          "image": "daa.jpg",
+          "url": "https://drive.google.com/file/d/157zJ-yB5YxfB5-Ejvc8Ee0NZY4hRvSuz/view?usp=sharing"
+        },
+        {
+          "title": "Compiler Design",
+          "category": "",
+          "image": "cd.jpg",
+          "url": "https://drive.google.com/file/d/1kpXDiHmUIigZmhMRN2vESYrAPrNUzEqu/view?usp=sharing"
+        },
+        {
+          "title": "Constitution of India",
+          "category": "",
+          "image": "coi.jpg",
+          "url": "https://drive.google.com/file/d/1Un0LLCkhU6o8-KENdZRIMO_EgxgpLgNu/view?usp=sharing"
+        },
+        {
+          "title": "Machine Learning Techniques",
+          "category": "",
+          "image": "mlt.jpg",
+          "url": "https://drive.google.com/file/d/1pKxYRrZk9fEdfuDyWpgN2zSEEqvtursT/view?usp=sharing"
+        },
+        {
+          "title": "Object Oriented System Design",
+          "category": "",
+          "image": "oosd.jpg",
+          "url": "https://drive.google.com/file/d/1ZMpebGRLPnQGDDcEaut-OQRmcLj-UfYS/view?usp=sharing"
+        }
+      ]
+    }
+      
+  }
