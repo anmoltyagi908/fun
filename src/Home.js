@@ -105,16 +105,16 @@ setUserName(user.displayName);
           <div className="row">
             <div className="columns download" style={{width:"100%"}}>
               <p>
-                <Link to="/btech" target="_blank" className="button">
+                <Link to="/Btech" className="button">
                   <i className="fa fa-download"></i>B.Tech
                 </Link>
-                <Link to="/pharm" target="_blank"  className="button">
+                <Link to="/Pharm" className="button">
                   <i className="fa fa-download"></i>B.Pharm & D.Pharm
                 </Link>
-                <Link to="/bcom" target="_blank" className="button">
+                <Link to="/BCom" className="button">
                   <i className="fa fa-download"></i>B.Com
                 </Link>
-                <Link to="/bba" target="_blank" className="button">
+                <Link to="/BBA" className="button">
                   <i className="fa fa-download"></i>BBA
                 </Link>
               </p>
