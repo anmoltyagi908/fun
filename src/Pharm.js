@@ -48,6 +48,14 @@ function Pharm(){
     <header id="home" style={{backgroundImage:'url(https://aosts.com/wp-content/uploads/2019/03/Independent-Water-analysis.jpg)'}}>
       <div className="row banner">
         <div className="banner-text">
+        <Link to="/">
+        <div className="loginscreen_logo">
+           <img
+            src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png"
+            />
+        </div>
+        </Link>
+        
         {!isUserSignedIn ? (
           <button className="signout" onClick={signInWithFirebase}>sign In</button>
           ):(

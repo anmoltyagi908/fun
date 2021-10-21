@@ -19,6 +19,7 @@ const Portfolio = ({ data }) => {
     const checkn = (e)=> {
       console.log('notes')
     }
+    
 
   if (data) {
     var projects = data.projects.map(function (projects) {
@@ -27,7 +28,7 @@ const Portfolio = ({ data }) => {
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
             {!isUserSignedIn ? (
-
+              
               <div  onClick={()=>alertt()}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">

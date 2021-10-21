@@ -1,7 +1,7 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
 import { Link } from 'react-router-dom';
-import { getAuth, signInWithPopup, GoogleAuthProvider,FacebookAuthProvider,GithubAuthProvider } from "firebase/auth";
+import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import  { useEffect, useState } from 'react'
 import firebase, { auth } from "../config/firebase-config";
 
@@ -98,10 +98,19 @@ const Header = ({ data }) => {
      
       <div className="row banner">
         <div className="banner-text">
+        <div className="loginscreen_logo">
+        <Link to="/">
+
+           <img
+            src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png"
+            />
+                    </Link>
+
+        </div>
         {!isUserSignedIn ? (
-          <button className="signout" onClick={signInWithFirebase}>sign In</button>
+          <button className="signoutt" onClick={signInWithFirebase}>sign In</button>
           ):(
-            <button className="signout" onClick={signOutt}>sign out</button>
+            <button className="signoutt" onClick={signOutt}>sign out</button>
 
           )}            <h2 className="responsive-headline" >
             <TypeWriter typing={0.5}>{name ? `${name}.` : null}</TypeWriter>

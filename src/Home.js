@@ -2,6 +2,9 @@ import React from "react";
 import TypeWriter from "react-typewriter";
 import  { useEffect, useState } from 'react'
 import "./Home.css"
+// import Image from "next/image";
+// import { useRouter } from "next/dist/client/router";
+
 
 // import firebase ,{auth} from './config/firebase-config'
 
@@ -56,10 +59,13 @@ setUserName(user.displayName);
        {/* */}          
 
         <div className="banner-text">
-          <div className="loginscreen_logo">
-            <img src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png" alt="" />
-            </div>
-
+        <Link to="/">
+        <div className="loginscreen_logo">
+           <img
+            src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png"
+            />
+        </div>
+        </Link>
 
        {/* <Router> */}
  {!isUserSignedIn ? (

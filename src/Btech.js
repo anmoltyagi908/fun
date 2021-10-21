@@ -2,7 +2,7 @@ import React from "react";
 import TypeWriter from "react-typewriter";
 import { Link } from 'react-router-dom';
 import Footer from "./Components/Footer";
-import { getAuth, signInWithPopup, GoogleAuthProvider,FacebookAuthProvider,GithubAuthProvider } from "firebase/auth";
+import { getAuth, signInWithPopup, GoogleAuthProvider} from "firebase/auth";
 import  { useEffect, useState } from 'react'
 
 import firebase, { auth } from "./config/firebase-config";
@@ -43,6 +43,13 @@ function Btech(){
     <header id="home" style={{backgroundImage:'url(https://www.galaxyeduworld.com/storage/course/1616842296_605f0e38afa50_750_351.jpg)'}}>
       <div className="row banner">
         <div className="banner-text">
+        <Link to="/">
+        <div className="loginscreen_logo">
+           <img
+            src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png"
+            />
+        </div>
+        </Link>
         {!isUserSignedIn ? (
           <button className="signout" onClick={signInWithFirebase}>sign In</button>
           ):(

@@ -3,7 +3,7 @@ import TypeWriter from "react-typewriter";
 import { Link } from 'react-router-dom';
 import Footer from "./Components/Footer";
 // import { auth } from "./config/firebase-config";
-import { getAuth, signInWithPopup, GoogleAuthProvider,FacebookAuthProvider,GithubAuthProvider } from "firebase/auth";
+import { getAuth, signInWithPopup, GoogleAuthProvider} from "firebase/auth";
 import  { useEffect, useState } from 'react'
 
 import firebase, { auth } from "./config/firebase-config";

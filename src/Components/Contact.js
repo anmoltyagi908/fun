@@ -19,7 +19,7 @@ const Contact = ({ data }) => {
     var phone = data.phone;
     var phone1 = data.phone1;
     var contactEmail = data.email;
-    var contactMessage = data.contactmessage;
+    // var contactMessage = data.contactmessage;
   }
 
   const submitForm = () => {

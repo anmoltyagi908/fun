@@ -31,6 +31,18 @@ body { background: #0f0f0f; }
    .loginScreen__body{
       background-color: red;
    }
+
+   body {
+      text-align: center;
+  }
+   
+  /* Color for h1 tag */
+  h1 {
+      color: green;
+  }
+   
+  /* Designing dialog box */
+ 
 /* Login screen */
 
 
@@ -61,18 +73,47 @@ header .banner {
    padding-bottom: 30px;
    text-align: center;
 }
-header button.signout{
+header button.signoutt{
    background-color: rgb(235, 64, 64);
-   position:absolute;
-   top:10px;
-   right:10px;
+   position:fixed ;
+   top: 0px;
+   right: 80px;
    height:50px;
    width:120px;
    z-index: 999;
 }
+.loginscreen_logo{
+   left: 0;
+   position: absolute;
+   top: 10px;
+   /* cursor: pointer; */
+   cursor: pointer;
+   width: 100px;
+   z-index: 999;
+   /* height: ; */
+}
+
+
+header button.signout{
+   background-color: rgb(235, 64, 64);
+   position:absolute;
+   top: 10px;
+   right: 20px;
+   height:50px;
+   width:120px;
+   z-index: 999;
+}
+
 header button.signout:hover{
    background-color: white;
    color: rgb(235, 64, 64);
+   /* color: black; */
+}
+
+header button.signoutt:hover{
+   background-color: white;
+   color: rgb(235, 64, 64);
+   /* color: black; */
 }
 header .banner-text { width: 100%; }
 header .banner-text h2 {
