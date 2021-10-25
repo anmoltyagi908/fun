@@ -1,0 +1,105 @@
+{
+    "main": {
+      "name": "BSc - Agriculture - 6th Sem",
+      "header":"bsc",
+      "headerImage":"https://www.tawicolleges.com/wp-content/uploads/2019/05/agricultural-science.jpg",
+      "description": ".Meerut Institute of Technology.",
+      "image": "profilepic.png",
+      "bio": "You can Download the Timetable",
+      "contactmessage": "Get in touch with us",
+      "email": "mayank.tyagi.cs.2019@mitmeerut.ac.in, anmol.tyagi.cs.2019@mitmeerut.ac.in",
+      "phone": " 9548083214",
+      "phone1": " 6396534539",
+      "address": {
+        "street": "B-26/1, Nand vihar,Rohta Road,",
+        "city":"Meerut",
+        "state": "Uttar Pradesh",
+        "zip": "250001",
+        "street1": "Vidhyawati Boy's Hostel,",
+        "city1":"Meerut",
+        "state1": "Uttar Pradesh",
+        "zip1": "250103"
+      },
+      "website": "https://mitmeerut.ac.in",
+      "secA": "https://drive.google.com/file/d/11az4DG2hhvkYxsM7SL_ZSjFxGUCgTzr3/view?usp=sharing",
+      "secB": "https://drive.google.com/file/d/11az4DG2hhvkYxsM7SL_ZSjFxGUCgTzr3/view?usp=sharing",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/mit.merrut/",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/company/mitmeerut/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mit_meerut/",
+          "className": "fa fa-instagram"
+        }
+      ]
+    },
+    "resume": {
+      "syllabus": [
+        {
+          "subjects": "👉 Data Structure (DS - KCS301)",
+          "link":"https://drive.google.com/file/d/1sbTb230t5gLK1GySBYXcVOP-ZMFogpUz/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Computer Organization and Architecture (COA - KCS302)",
+          "link":"https://drive.google.com/file/d/18W3bMR1uk1t69vNQixLSxDNa7my4VEBD/view?usp=sharing"
+        },
+        {
+          "subjects": "👉 Discrete Structure & Theory of Logic (DSTL - KCS303)",
+          "link": "https://drive.google.com/file/d/18W3bMR1uk1t69vNQixLSxDNa7my4VEBD/view?usp=sharing"
+        }
+        
+      ],
+      "skills": [
+        {
+            "subjects": "👉 Data Structure Lab (DS - KCS351)",
+            "link":"https://drive.google.com/file/d/1Zmw_nPQ_RLCaVZwMdO9tHf732n078lSX/view?usp=sharing"
+          },
+          {
+            "subjects": "👉 Computer Organization and Architecture Lab (COA - KCS352)",
+            "link":"https://drive.google.com/file/d/1X_bnmYFdn1qnuJz0QsN2y3pp_Gx7mRqB/view?usp=sharing"
+          },
+          {
+            "subjects": "👉 Discrete Structure & Theory of Logic Lab (DSTL - KCS353)",
+            "link": "https://drive.google.com/file/d/1B8ErFbHsUOMFlDyFXJNm-IKc2nJYHM3Q/view?usp=sharing"
+          }      
+       
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Data Structure",
+          "category": "",
+          "image": "ds.jpg",
+          "url": "https://drive.google.com/file/d/1DSDMgvlojMEet5dte7uWl_9Q0n_c6Sje/view?usp=sharing"
+        },
+        {
+          "title": "Computer Organization and Architecture",
+          "category": "",
+          "image": "coa.jpg",
+          "url": "https://drive.google.com/file/d/1VzrTMO9oncNfkdPOrKn94k4XD94hQHgn/view?usp=sharing"
+        },
+        {
+          "title": "Discrete Structure & Theory of Logic",
+          "category": "",
+          "image": "dstl.jpg",
+          "url": "https://drive.google.com/file/d/1KjcNQ2F3gTuArArwdFY_EgCnPIbUkl38/view?usp=sharing"
+        },
+        {
+          "title": "Computer System Security",
+          "category": "",
+          "image": "css.jpg",
+          "url": "https://drive.google.com/file/d/1zamnKwpY4w3hS-_okZUqx4sXftikINqD/view?usp=sharing"
+        }
+      ]
+    }
+      
+  }

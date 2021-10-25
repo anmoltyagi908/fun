@@ -23,11 +23,11 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <p>
-                <a href="https://www.linkedin.com/in/mayank-tyagi-372142213/">
+                <a href="https://resume-alpha-ashen.vercel.app/">
                   MAYANK TYAGI 
                 </a>
                 | 
-                <a href="https://www.linkedin.com/in/anmol-tyagi-0176801b2/">
+                <a href="https://resume-476e4.web.app/">
                   ANMOL TYAGI
                 </a>
               </p>
