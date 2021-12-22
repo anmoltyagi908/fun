@@ -76,28 +76,40 @@
     "portfolio": {
       "projects": [
         {
-          "title": "Data Structure",
+          "title": "Database Management System",
           "category": "",
-          "image": "ds.jpg",
-          "url": "https://drive.google.com/file/d/1DSDMgvlojMEet5dte7uWl_9Q0n_c6Sje/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/dbms.png",
+          "url": "media/btech/computer science/semester5/notes/DBMS.pdf"
         },
         {
-          "title": "Computer Organization and Architecture",
+          "title": "Design and Analysis of Algorithms",
           "category": "",
-          "image": "coa.jpg",
-          "url": "https://drive.google.com/file/d/1VzrTMO9oncNfkdPOrKn94k4XD94hQHgn/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/daa.png",
+          "url": "media/btech/computer science/semester5/notes/DAA.pdf"
         },
         {
-          "title": "Discrete Structure & Theory of Logic",
+          "title": "Compiler Design",
           "category": "",
-          "image": "dstl.jpg",
-          "url": "https://drive.google.com/file/d/1KjcNQ2F3gTuArArwdFY_EgCnPIbUkl38/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/cd.png",
+          "url": "media/btech/computer science/semester5/notes/CD.pdf"
         },
         {
-          "title": "Computer System Security",
+          "title": "Constitution of India",
           "category": "",
-          "image": "css.jpg",
-          "url": "https://drive.google.com/file/d/1zamnKwpY4w3hS-_okZUqx4sXftikINqD/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/coi.png",
+          "url": "media/btech/computer science/semester5/notes/COI.pdf"
+        },
+        {
+          "title": "Machine Learning Techniques",
+          "category": "",
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/mlt.png",
+          "url": "media/btech/computer science/semester5/notes/MLT.pdf"
+        },
+        {
+          "title": "Object Oriented System Design",
+          "category": "",
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/oosd.png",
+          "url": "media/btech/computer science/semester5/notes/OOSD.pdf"
         }
       ]
     }

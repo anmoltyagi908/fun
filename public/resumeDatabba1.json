@@ -88,38 +88,38 @@
         {
           "title": "Database Management System",
           "category": "",
-          "image": "dbms.jpg",
-          "url": "https://drive.google.com/file/d/1tYLqZTmzcCoymKv6fRbpAMq7a-plj5L5/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/dbms.png",
+          "url": "media/btech/computer science/semester5/notes/DBMS.pdf"
         },
         {
           "title": "Design and Analysis of Algorithms",
           "category": "",
-          "image": "daa.jpg",
-          "url": "https://drive.google.com/file/d/157zJ-yB5YxfB5-Ejvc8Ee0NZY4hRvSuz/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/daa.png",
+          "url": "media/btech/computer science/semester5/notes/DAA.pdf"
         },
         {
           "title": "Compiler Design",
           "category": "",
-          "image": "cd.jpg",
-          "url": "https://drive.google.com/file/d/1kpXDiHmUIigZmhMRN2vESYrAPrNUzEqu/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/cd.png",
+          "url": "media/btech/computer science/semester5/notes/CD.pdf"
         },
         {
           "title": "Constitution of India",
           "category": "",
-          "image": "coi.jpg",
-          "url": "https://drive.google.com/file/d/1Un0LLCkhU6o8-KENdZRIMO_EgxgpLgNu/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/coi.png",
+          "url": "media/btech/computer science/semester5/notes/COI.pdf"
         },
         {
           "title": "Machine Learning Techniques",
           "category": "",
-          "image": "mlt.jpg",
-          "url": "https://drive.google.com/file/d/1pKxYRrZk9fEdfuDyWpgN2zSEEqvtursT/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/mlt.png",
+          "url": "media/btech/computer science/semester5/notes/MLT.pdf"
         },
         {
           "title": "Object Oriented System Design",
           "category": "",
-          "image": "oosd.jpg",
-          "url": "https://drive.google.com/file/d/1ZMpebGRLPnQGDDcEaut-OQRmcLj-UfYS/view?usp=sharing"
+          "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/oosd.png",
+          "url": "media/btech/computer science/semester5/notes/OOSD.pdf"
         }
       ]
     }

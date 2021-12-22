@@ -83,20 +83,56 @@ function Btech(){
     <section id="about">
       <div className="row" style={{textAlign:"center"}}>
           <h2>Branch</h2>
-          <div className="row">
-            <div className="columns download" style={{width:"100%"}}>
-              <p>
-                <Link to="/btechcs"  className="button">
-                  <i className="fa fa-download"></i>Computer Sci. & Engg.
-                </Link>
-                <Link to="/btechmec" className="button">
-                  <i className="fa fa-download"></i>Mechanical
-                </Link>
-                <Link to="/btechcivil"  className="button">
-                  <i className="fa fa-download"></i>Civil
-                </Link>
-              </p>
-            </div>
+          <div className="row rowpos">
+          <div class="container">
+    <input type="radio" name="dot" id="one"/>
+    <div class="main-card">
+      <div class="cards">
+        <div class="card">
+        <Link to='btechcs'>
+         <div class="content">
+           <div class="img">
+          <img src="https://t3.ftcdn.net/jpg/01/81/12/58/360_F_181125818_cGv3Id6cwEDGv6UatGhwSoU669nnaW83.jpg" alt=""/>
+           </div>
+           <div class="details">
+             <div class="job">Computer Science & Engg.</div>
+           </div>
+         </div>
+        </Link>
+        </div>
+        <div class="card">
+        <Link to='btechmec'>
+         <div class="content">
+           <div class="img">
+           <img src="https://dynamic.placementindia.com/blog_images/20201105111343_image1.jpg" alt=""/>
+           </div>
+           <div class="details">
+             <div class="job">Mechanical</div>
+           </div>
+         </div>
+         </Link>
+        </div>
+        <div class="card">
+        <Link to='btechcivil'>
+         <div class="content">
+           <div class="img">
+           <img src="https://icbt.lk/wp-content/uploads/2018/06/Civil-Structural-Engineering-min.jpg" alt=""/>
+           </div>
+           <div class="details">
+             <div class="job">Civil</div>
+           </div>
+         </div>
+         </Link>
+        </div>
+      </div>
+      <div class="cards">
+        
+      </div>
+    </div>
+    <div class="button" style={{background:'#e3343a'}}>
+      <label for="one" class=" active one"></label>
+    </div>
+  </div>
           </div>
       </div>
     </section>

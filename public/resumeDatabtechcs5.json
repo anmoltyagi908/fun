@@ -91,37 +91,37 @@
       {
         "title": "Database Management System",
         "category": "",
-        "image": "dbms.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/dbms.png",
         "url": "media/btech/computer science/semester5/notes/DBMS.pdf"
       },
       {
         "title": "Design and Analysis of Algorithms",
         "category": "",
-        "image": "daa.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/daa.png",
         "url": "media/btech/computer science/semester5/notes/DAA.pdf"
       },
       {
         "title": "Compiler Design",
         "category": "",
-        "image": "cd.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/cd.png",
         "url": "media/btech/computer science/semester5/notes/CD.pdf"
       },
       {
         "title": "Constitution of India",
         "category": "",
-        "image": "coi.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/coi.png",
         "url": "media/btech/computer science/semester5/notes/COI.pdf"
       },
       {
         "title": "Machine Learning Techniques",
         "category": "",
-        "image": "mlt.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/mlt.png",
         "url": "media/btech/computer science/semester5/notes/MLT.pdf"
       },
       {
         "title": "Object Oriented System Design",
         "category": "",
-        "image": "oosd.jpg",
+        "image": "https://raw.githubusercontent.com/tyagimayank213/mit__3rd-year/main/public/media/btech/computer%20science/semester5/images/oosd.png",
         "url": "media/btech/computer science/semester5/notes/OOSD.pdf"
       }
     ]

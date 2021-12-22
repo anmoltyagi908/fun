@@ -38,12 +38,19 @@ function Bcom(){
     }).catch((error) => {
         console.log(error)
     });
-}
+  }
   return (
     <div>
-    <header id="home" style={{backgroundImage:'url(https://thumbs.dreamstime.com/z/calculator-dollars-us-money-background-blue-top-35513595.jpg)'}}>
+    <header id="home" style={{backgroundImage:'url(https://img.freepik.com/free-photo/calculator-100-dollar-bills-saving-concept_359031-11620.jpg?size=626&ext=jpg)'}}>
       <div className="row banner">
         <div className="banner-text">
+        <Link to="/">
+        <div className="loginscreen_logo">
+           <img
+            src=" https://mitmeerut.ac.in/assets/frontend/images/mit_shell_new.png"
+            />
+        </div>
+        </Link>-
         {!isUserSignedIn ? (
           <button className="signout" onClick={signInWithFirebase}>sign In</button>
           ):(

@@ -84,19 +84,19 @@ function Dpharm(){
       <div className="row" style={{textAlign:"center"}}>
           <h2>Semester</h2>
           <div className="row">
-            <div className="columns download" style={{width:"100%"}}>
+            <div className="columns download" style={{width:"90%"}}>
               <p>
-                <Link to="/dpharm1" className="button">
-                  <i className="fa fa-download"></i>1 Semester
+              <Link to="/dpharm1" >
+                  <button type="button" class="marg">1 Semester</button>
                 </Link>
-                <Link to="/dpharm2" className="button">
-                  <i className="fa fa-download"></i>2 Semester
+                <Link to="/dpharm2" >
+                  <button type="button" class="marg">2 Semester</button>
                 </Link>
-                <Link to="/dpharm3" className="button">
-                  <i className="fa fa-download"></i>3 Semester
+                <Link to="/dpharm3" >
+                  <button type="button" class="marg">3 Semester</button>
                 </Link>
-                <Link to="/dpharm4" className="button">
-                  <i className="fa fa-download"></i>4 Semester
+                <Link to="/dpharm4" >
+                  <button type="button" class="btn btn-danger">4 Semester</button>
                 </Link>
               </p>
             </div>

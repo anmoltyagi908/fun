@@ -40,7 +40,7 @@ function Btechcs(){
 }
   return (
     <div>
-    <header id="home" style={{backgroundImage:'url(https://www.indiaeducation.net/imagesvr_ce/5334/Computer%20Engineering.jpg)'}}>
+    <header id="home" style={{backgroundImage:'url(https://t3.ftcdn.net/jpg/01/81/12/58/360_F_181125818_cGv3Id6cwEDGv6UatGhwSoU669nnaW83.jpg)'}}>
       <div className="row banner">
         <div className="banner-text">
         <Link to="/">

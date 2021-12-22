@@ -86,22 +86,47 @@ function Pharm(){
       </div>
      
     </header>
-    <section id="about">
-      <div className="row" style={{textAlign:"center"}}>
+    <section id="about" style={{textAlign:"center"}}>
           <h2>Branch</h2>
-          <div className="row">
-            <div className="columns download" style={{width:"100%"}}>
-              <p>
-                <Link to="/bpharm"  className="button">
-                  <i className="fa fa-download"></i>B.Pharm
-                </Link>
-                <Link to="/dpharm"  className="button">
-                  <i className="fa fa-download"></i>D.Pharm
-                </Link>
-              </p>
-            </div>
-          </div>
+          <div className="row rowpos">
+          <div class="container">
+    <input type="radio" name="dot" id="one"/>
+    <div class="main-card">
+      <div class="cards" style={{justifyContent:'space-around'}}>
+        <div class="card">
+        <Link to='bpharm'>
+         <div class="content">
+           <div class="img">
+          <img src="https://institute.careerguide.com/wp-content/uploads/2020/04/Pharmaceutical.jpg" alt=""/>
+           </div>
+           <div class="details">
+             <div class="job">B.Pharm</div>
+           </div>
+         </div>
+        </Link>
+        </div>
+        <div class="card">
+        <Link to='dpharm'>
+         <div class="content">
+           <div class="img">
+           <img src="https://eduly.in/wp-content/uploads/2019/06/antibiotic-capsules-close-up-139398-compressed.jpg" alt=""/>
+           </div>
+           <div class="details">
+             <div class="job">D.Pharm</div>
+           </div>
+         </div>
+         </Link>
+        </div>
       </div>
+      <div class="cards">
+        
+      </div>
+    </div>
+    <div class="button" style={{background:'#e3343a'}}>
+      <label for="one" class=" active one"></label>
+    </div>
+  </div>
+          </div>
     </section>
     <footer>
       <div className="row">
